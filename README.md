@@ -1,47 +1,66 @@
-# your-portfolio
-# 👋 Hi, I'm [你的名字]
+# 👋 Hi, I'm Xiaobo (Ryan) Chen  
+### Senior Manager, Business Intelligence → Analytics Engineer / Data Engineer
 
-**Senior Manager → Data Engineer / Analytics Engineer**
-
-I build end-to-end data systems with a focus on:
-- Data modeling (ARPU, Churn, Subsidy, Profitability)
-- Metrics layer design
-- DBT pipelines
-- Data engineering fundamentals
-- Business-centric analytics
+I design scalable data systems that combine  
+**Business Intelligence × Data Engineering × ML-driven forecasting**  
+to support enterprise-level decision-making.
 
 ---
 
-## 📌 Featured Project  
-### **Industrial-Grade Financial Data Pipeline**
-An end-to-end pipeline including:
-- Ingestion (Python)
-- Data Lake (parquet)
-- DBT modeling (staging → marts)
-- Airflow orchestration
-- Metrics layer (ARPU, churn, device margin)
-- Streamlit dashboards
+## 🔹 About Me
+I specialize in building analytics systems that bridge business logic and data engineering.
 
-👉 *[View Project](#)*  ← 等你完成后我会告诉你放哪里
+At Verizon, I:
+- Led the Business Intelligence function and defined BI/AI roadmap
+- Automated ETL pipelines using Python and SQL
+- Built data modeling standards and metric layers (ARPU, churn, subsidy margin)
+- Developed predictive forecasting pipelines using ML models
+- Delivered executive dashboards supporting real-time decision-making
 
----
-
-## 📂 Other Projects  
-- **DBT Analytics Engineering Project**  
-- **Subscriber Lifecycle Modeling**  
-- **Device Sales Profitability Dashboard**
+Previously, I owned the end-to-end customer subsidy data pipeline, built SQL models for forecasting, and engineered analytic data marts used by senior leadership.
 
 ---
 
-## 🧱 Skills (Notion Minimal Style)
+## 🔹 Featured Projects
+
+### ⭐ 1. Enterprise BI & AI Analytics Platform (Verizon)
+End-to-end BI architecture · Python ETL · Metric Layer · ML forecasting  
+
+**Highlights**
+- Automated Python ETL pipelines  
+- Implemented ML forecasting models  
+- Designed KPI metric layers  
+- Built enterprise dashboards  
+
+---
+
+### ⭐ 2. Financial Data Pipeline — ARPU / Churn / Subsidy Modeling
+Industrial-grade pipeline modeling Verizon’s key business metrics.  
+
+**Pipeline**
+1. Python ingestion  
+2. Parquet data lake  
+3. DBT transformations  
+4. Metrics layer (ARPU, churn, margin)  
+5. Dashboard output  
+
+---
+
+### ⭐ 3. Predictive Forecasting Engine (ML for Perk ROI)
+- ML model forecasting perk usage & cost  
+- Automated feature engineering pipeline  
+- Integrated into BI reporting  
+
+---
+
+## 🔹 Skills
 `SQL` `Python` `DBT` `Airflow`  
-`Snowflake / BigQuery`  
-`Metrics Design`  
-`Data Modeling`  
-`Financial Analytics`
+`ETL Automation` `Data Modeling`  
+`Qlik` `ThoughtSpot` `Tableau`  
+`Financial Modeling` `Forecasting`  
 
 ---
 
-## 📬 Contact  
-[LinkedIn](#)  
-[Email](mailto:你的邮箱)
+## 🔹 Contact
+📩 Email: hpny4321@gmail.com  
+🔗 LinkedIn: (your link)
