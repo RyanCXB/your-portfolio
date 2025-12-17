@@ -10,7 +10,7 @@ Integrated into BI reporting as a real-time simulation layer.
 ---
 
 ## Architecture
-![Forecasting Engine Architecture](../architecture/metrics_arch.png)
+![Forecasting Engine Architecture](../architecture/metrics_arch.svg)
 
 ---
 
