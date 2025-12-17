@@ -10,7 +10,7 @@ It simulates industrial-grade data modeling for ARPU, churn, device subsidy marg
 ---
 
 ## Architecture
-![Financial Pipeline Architecture](../architecture/financial_pipeline_arch.png)
+![Financial Pipeline Architecture](../architecture/financial_pipeline_arch.svg)
 
 ---
 
