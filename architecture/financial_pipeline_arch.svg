@@ -1,0 +1,43 @@
+<svg width="1600" height="2000" viewBox="0 0 1600 2000" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .box { fill: #fff; stroke: #000; stroke-width: 2; rx: 0; }
+    .text { fill: #000; font-family: 'Inter', 'IBM Plex Sans'; font-size: 28px; }
+    .title { fill: #000; font-family: 'Inter', 'IBM Plex Sans'; font-size: 42px; font-weight: 700; }
+    .arrow { stroke: #000; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="12" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#000"/>
+    </marker>
+  </defs>
+
+  <rect width="1600" height="2000" fill="#fff"/>
+
+  <text class="title" x="350" y="120">FINANCIAL DATA PIPELINE</text>
+
+  <rect class="box" x="450" y="200" width="700" height="120"/>
+  <text class="text" x="500" y="265">Raw Data (Finance / Subscriber)</text>
+
+  <rect class="box" x="450" y="380" width="700" height="120"/>
+  <text class="text" x="520" y="445">Ingestion — Python → Parquet (Bronze)</text>
+
+  <line class="arrow" x1="800" y1="320" x2="800" y2="380"/>
+
+  <rect class="box" x="250" y="600" width="1100" height="260"/>
+  <text class="text" x="280" y="660">DBT Transformation Layer</text>
+  <text class="text" x="280" y="710">Staging → Intermediate → Marts</text>
+  <text class="text" x="280" y="760">ARPU | Churn | Subsidy | Profitability Models</text>
+
+  <line class="arrow" x1="800" y1="500" x2="800" y2="600"/>
+
+  <rect class="box" x="200" y="1000" width="500" height="150"/>
+  <text class="text" x="230" y="1070">Metrics Layer</text>
+  <text class="text" x="230" y="1120">ARPU / Churn / Margin</text>
+
+  <rect class="box" x="900" y="1000" width="500" height="150"/>
+  <text class="text" x="940" y="1070">Dashboard Layer</text>
+  <text class="text" x="940" y="1120">Streamlit / Qlik</text>
+
+  <line class="arrow" x1="700" y1="1070" x2="900" y2="1070"/>
+</svg>
