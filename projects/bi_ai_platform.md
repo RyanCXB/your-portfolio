@@ -10,7 +10,7 @@ It demonstrates how I designed and automated data workflows, standardized metric
 ---
 
 ## Architecture
-![BI Platform Architecture](../architecture/bi_platform_arch.svg.
+![BI Platform Architecture](../architecture/bi_platform_arch.svg）
 
 ---
 
