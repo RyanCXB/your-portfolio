@@ -1,3 +1,5 @@
+[Home](../README.md) | [Projects](./projects/) | [Architecture Gallery](./architecture/)
+
 # 👋 Hi, I'm Ryan Chen  
 ### Senior Manager, Business Intelligence → Analytics Engineer / Data Engineer (Hybrid)
 
