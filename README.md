@@ -71,13 +71,14 @@ Developed machine learning models to forecast perk usage, cost, and ROI, integra
 
 ---
 
-## 🔹 Skills (Notion Minimal Style)
+## 🔹 Skills Map
 
-`SQL` `Python` `DBT` `ETL Automation` `Airflow`  
-`Data Modeling` `Metric Layer Design`  
-`Qlik Sense` `ThoughtSpot` `Tableau`  
-`Financial Modeling` `Predictive Forecasting`  
-`AWS Cloud Practitioner`
+- Data Engineering: SQL, Python, ETL, DBT, Airflow
+- Modeling: ARPU, Churn, Subsidy, Profitability
+- BI Platforms: Qlik, ThoughtSpot, Tableau
+- ML: Forecasting, Regression, Simulation
+- Cloud: AWS (S3, Lambda, Redshift basics)
+
 
 ---
 
